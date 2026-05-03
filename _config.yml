@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "ko-KR"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Min's note"
+title                    : "Minconomics"
 title_separator          : "|"
-subtitle                 : "민재의 공부기록"
-name                     : "Min Kim"
+subtitle                 : "공부기록"
+name                     : "Min"
 description              : "ordinary to possibility"
 url                      : "https://Mincon101.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -114,7 +114,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Min Kim"
+  name             : "Min"
   avatar           : "images/2026-05-03-first/깃헙프사.jpeg"
   bio              : # sex
   location         : "South Korea"
@@ -234,11 +234,11 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul
 
 
 # Pagination with jekyll-paginate
-paginate: 5 # amount of posts to show
+paginate: 10
 paginate_path: /page:num/
 
 # Pagination with jekyll-paginate-v2
