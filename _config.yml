@@ -163,7 +163,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
   since: "2013"
-
+  powered_by: false
 
 # Reading Files
 include:
