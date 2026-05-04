@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "ko-KR"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Minconomics"
+title                    : "MinMinLand"
 title_separator          : "|"
 subtitle                 : "공부기록"
 name                     : "Min"
